@@ -1,0 +1,5 @@
+# Generated from the combos section of randomcontainers/doctl package.yml by randomcontainers/ci.
+# Do not edit; change package.yml in randomcontainers/doctl instead.
+name: doctl-openssh-client
+owner: doctl
+with: [openssh-client]
